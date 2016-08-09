@@ -1,2 +1,3 @@
 name: UART Mine
 	markdown: kramdown
+	permalink: /blog/:year/:month/:day/:title
